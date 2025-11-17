@@ -46,3 +46,19 @@ body{
     border-radius: 25px;
     border: none;
 }
+
+#msg{
+    color: #8CFFDA;
+    font-size: 25pt;
+}
+
+.msg-container {
+  display: flex;        /* or block */
+  justify-content: center;
+  align-items: center;
+  /* etc… */
+}
+
+.hide {
+  display: none;
+}
